@@ -136,7 +136,7 @@ span {
 
 .paneloptions p {
     display: inline;
-    margin-left: 2vmin;
+    padding: 2vmin;
     border: 1.5px solid transparent;
 }
 
@@ -145,6 +145,7 @@ span {
 }
 
 .panelall {
+    padding: 2vmin;
     border: 1.5px solid transparent;
 }
 
